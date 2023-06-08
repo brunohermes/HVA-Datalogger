@@ -23,5 +23,5 @@ Conect the Hardware to a Computer running Hermes A/V Datalogger, and start the s
 # Once you connected the harware
 ![Wx64Software](Screenshots/step1.jpg)
 
-# To start monitoring
+# Attach the power consumption
 ![Wx64Software](Screenshots/step2.jpg)
