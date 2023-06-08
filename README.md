@@ -1,5 +1,5 @@
 [WIP]
-## Building the required Hardware:
+# Building the required Hardware:
 
 Main Schematic for the hardware required to run the latest Hermes Volt Ampère Datalogger:
 
@@ -17,8 +17,11 @@ After the assembly, upload any of the files included in "Upload to 328 Chip" fol
 Conect the Hardware to a Computer running Hermes A/V Datalogger, and start the software.
 
 
-## Running Hermes Ampère Volt Datalogger
+# Running Hermes Ampère Volt Datalogger
 ![Wx64Software](Screenshots/main.jpg)
 
 # Once you connected the harware
 ![Wx64Software](Screenshots/step1.jpg)
+
+# To start monitoring
+![Wx64Software](Screenshots/step2.jpg)
