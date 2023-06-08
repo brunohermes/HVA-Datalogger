@@ -1,8 +1,5 @@
 [WIP]
 
-# About
-![Wx64Software](Screenshots/about.jpg)
-
 # SETTING UP THE HARDWARE AND SOFTWARE
 
 ## Building the required Hardware:
@@ -24,6 +21,8 @@ After the assembly, upload pick one of the two versions of the 328 software file
 
 Conect the Hardware to a Computer running Hermes Datalogger, and start the software.
 
+# About
+![Wx64Software](Screenshots/about.jpg)
 
 ## Running Hermes Volt Ampère Datalogger
 ![Wx64Software](Screenshots/main.jpg)
