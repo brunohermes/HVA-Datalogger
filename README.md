@@ -1,6 +1,4 @@
-# datalogger [WIP]
-Hermes Datalogger Volt/Ampère
-
+[WIP]
 ## Building the required Hardware:
 
 Main Schematic for the hardware required to run the latest Hermes Volt Ampère Datalogger:
@@ -17,3 +15,7 @@ Using ATMEGA328 and MAX471 IC.
 After the assembly, upload any of the files included in "Upload to 328 Chip" folder.
 
 Conect the Hardware to a Computer running Hermes A/V Datalogger, and start the software.
+
+
+## Running Hermes Ampère Volt Datalogger
+![Wx64Software](Screenshots/main.jpg)
