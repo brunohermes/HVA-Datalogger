@@ -19,3 +19,6 @@ Conect the Hardware to a Computer running Hermes A/V Datalogger, and start the s
 
 ## Running Hermes Ampère Volt Datalogger
 ![Wx64Software](Screenshots/main.jpg)
+
+# Once you connected the harware
+![Wx64Software](Screenshots/step1.jpg)
