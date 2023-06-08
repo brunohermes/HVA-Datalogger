@@ -6,6 +6,8 @@ Main Schematic for the hardware required to run the latest Hermes Volt Ampère D
 
 ![Schematic](Screenshots/hardware.jpg)
 
+![Schematic](Screenshots/hardware2.jpg)
+
 On this example, i used a simple Diode to represent the power consumer that we need to monitor Voltage and Current.
 Replace this Diode with your own device.
  
