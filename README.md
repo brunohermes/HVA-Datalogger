@@ -1,3 +1,3 @@
 # datalogger [WIP]
 Hermes Datalogger Volt/Ampère
-![Schematic](/main/Screenshots/hardware.jpg)
+![Schematic](/brunohermes/HAV-Datalogger/main/Screenshots/hardware.jpg)
