@@ -1,5 +1,11 @@
 [WIP]
-# Building the required Hardware:
+
+# About
+![Wx64Software](Screenshots/about.jpg)
+
+# SETTING UP THE HARDWARE AND SOFTWARE
+
+## Building the required Hardware:
 
 Main Schematic for the hardware required to run the latest Hermes Volt Ampère Datalogger:
 
@@ -14,22 +20,22 @@ Replace this Diode with your own device.
 
 Using ATMEGA328 and MAX471 IC.
 
-After the assembly, upload any of the files included in "Upload to 328 Chip" folder.
+After the assembly, upload pick one of the two versions of the 328 software files included in "Upload to 328 Chip" folder.
 
 Conect the Hardware to a Computer running Hermes Datalogger, and start the software.
 
 
-# Running Hermes Volt Ampère Datalogger
+## Running Hermes Volt Ampère Datalogger
 ![Wx64Software](Screenshots/main.jpg)
 
-# Once you connected the harware
+## Once you connected the harware
 ![Wx64Software](Screenshots/step1.jpg)
 
-# Attach the power consumption
+## Attach the power consumption
 ![Wx64Software](Screenshots/step2.jpg)
 
-# Export the Log file as CSV
+## Export the Log file as CSV
 ![Wx64Software](Screenshots/step3.jpg)
 
-# Exported log example:
+## Exported log example:
 ![Wx64Software](Screenshots/csvlogex.jpg)
