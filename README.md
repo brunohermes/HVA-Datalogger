@@ -28,3 +28,6 @@ Conect the Hardware to a Computer running Hermes A/V Datalogger, and start the s
 
 # Export the Log file as CSV
 ![Wx64Software](Screenshots/step3.jpg)
+
+# Exported log example:
+![Wx64Software](Screenshots/csvlogex.jpg)
