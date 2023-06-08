@@ -25,3 +25,6 @@ Conect the Hardware to a Computer running Hermes A/V Datalogger, and start the s
 
 # Attach the power consumption
 ![Wx64Software](Screenshots/step2.jpg)
+
+# Export the Log file as CSV
+![Wx64Software](Screenshots/step3.jpg)
