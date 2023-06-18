@@ -15,6 +15,10 @@ On this example, i used a simple Diode to represent the power consumer that we n
 Replace this Diode with your own device.
  
 
+https://github.com/brunohermes/HVA-DataLogger/assets/48295386/1b2a1649-c0aa-4af9-a4c8-0db2ee46417d
+
+
+
 Using ATMEGA328 and MAX471 IC.
 
 After the assembly, upload pick one of the two versions of the 328 software files included in "Upload to 328 Chip" folder.
