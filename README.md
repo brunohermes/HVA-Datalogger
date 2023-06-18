@@ -1,5 +1,5 @@
 [WIP]
-#Usage Preview
+# Usage Preview
 
 https://github.com/brunohermes/HVA-DataLogger/assets/48295386/1b2a1649-c0aa-4af9-a4c8-0db2ee46417d
 
